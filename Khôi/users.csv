@@ -1,0 +1,4 @@
+user_id,username,password,balance,is_admin
+1,admin,admin123,0.0,True
+2,user1,password1,100000.0,False
+3,user2,password2,50000.0,False
